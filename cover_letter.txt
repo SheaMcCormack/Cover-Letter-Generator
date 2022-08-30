@@ -1,0 +1,22 @@
+Dear ABC.Co hiring manager,
+
+The purpose of this letter is to apply for a CEO position at ABC.Co in Edmonton,
+AB. When I found your job advertised on Google, I was very excited as I have
+a great interest in this field, and I believe my skillset strongly matches
+the qualifications. Moreover, I believe that this would be an extraordinary
+opportunity to further develop my skills in a workplace environment.
+
+• I am currently enrolled in my third year of the Computing Science Specialization
+program at the University of Alberta. The focus of my studies is in machine-learning.
+• I have developed excellent communication skills from working with clients
+to build schedules, hiring and directing employees, collaborating with other
+developers in various hackathons, and developing Rolly Road with a team.
+• I have excellent problem-solving skills that I developed through coding, practicing
+math and being an avid chess player, where I am around the 95th percentile
+for rated players on chess.com.
+• I have a basic understanding of Reinforcement Learning that I gained by completing
+Cmput 365 - Reinforcement Learning at the UofA.
+
+Sincerely,
+
+Shea McCormack
